@@ -1,0 +1,83 @@
+body{
+  background-color:#FFF;
+  margin: 0;
+  text-align: center;
+}
+
+/* Navbar */
+
+.nav-item{
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 8px;
+}
+
+.logo{
+padding-top: 10px;
+padding-bottom: 5px;
+}
+
+.navbar-toggler{
+  margin-top: 14px;
+}
+
+#header{
+  background-color: #336d88;
+}
+
+.online-fee{
+  color: white;
+  margin-top: 5px;
+
+}
+
+hr{
+  border-style: solid ;
+  width: 70%;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+#main{
+  margin-top: 2rem;
+}
+
+.main-images{
+  height: 60%;
+  width: 90%;
+}
+
+.previous-arrow{
+  margin-left:5%;
+}
+
+.next-arrow{
+  margin-right: 5%;
+}
+
+#IFHE-tour{
+  text-align: center;
+}
+
+.IFHE{
+  text-align: center;
+height: 10%;
+width: 80%;
+margin-left: 20%;
+
+}
+.carousel-indicators{
+  left: 114px;
+}
+
+.carousel-control-prev{
+  margin-left: 20%;
+}
+
+.carousel-control-next{
+
+}
+
+.data1{
+  padding-right: 10%;
+}
