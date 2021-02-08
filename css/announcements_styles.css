@@ -1,0 +1,77 @@
+.container0{
+background-color: 	#fff;
+padding: 2rem;
+margin-top: 25px;
+margin-left: 8%;
+margin-right: 8%;
+box-shadow:0 1px 28px rgba(0, 0, 0, 0.22);
+}
+#announcements_heading{
+  text-align: left;
+}
+.announcements_container{
+  padding: 10px;
+  text-align: left;
+  line-height: 2rem;
+  margin: 15px;
+  border: 5px solid;
+  border-color: #f2f2f2;
+}
+.announcements_matter{
+  position: absolute;
+  background-color: #fff;
+  height: 20rem;
+  width: 55.4%;
+  clip-path: polygon(0% 0%,100% 0%,50% 100%,0% 100%);
+}
+.announcements_image{
+
+  margin-left: 35.75%;
+  height: 20rem;
+  width: 64%;
+  clip-path: polygon(55.8% 0%,100% 0%,100% 100%,0% 100%);
+}
+.state_images{
+  width: 100%;
+}
+.state{
+  position: relative;
+  margin-top: -30px;
+  margin-left: 8%;
+  margin-right: 8%;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.22);
+
+
+}
+p{
+  line-height: 2rem;
+  text-align: left;
+}
+li{
+  text-align: left;
+}
+.research_container{
+  width: 100%;
+}
+.research_div .heading{
+  text-align: center;
+}
+.heading{
+  background-color: #336d88;
+  color: white;
+  padding: 10px;
+  margin-right: 20px;
+  text-align: left;
+}
+.matter{
+   padding: 20px;
+   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.22);
+   margin-right: 20px;
+   margin-bottom: 20px;
+}
+.nextpage_btn{
+  float: right;
+}
+.prevpage_btn{
+  float: left;
+}
